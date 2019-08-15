@@ -1,0 +1,8 @@
+{"_id":{ "$oid": "5d535513c859af000691c5c7" },"name":"Livre"}
+{"_id":{ "$oid": "5d53556ec859af000691c5c9" },"name":"Masculino Infantil","description":"Atletas homens de 7 a 12 anos"}
+{"_id":{ "$oid": "5d5355d4c859af000691c5cb" },"name":"Masculino Juvenil","description":"Atletas homens de 13 a 17 anos."}
+{"_id":{ "$oid": "5d53566ec859af000691c5cd" },"name":"Masculino Adulto","description":"Atletas homens acima de 18 anos"}
+{"_id":{ "$oid": "5d5356b9c859af000691c5cf" },"name":"Feminino Infantil","description":"Atletas mulheres de 7 a 12 anos"}
+{"_id":{ "$oid": "5d5356e4c859af000691c5d1" },"name":"Feminino Juvenil","description":"Atletas mulheres de 13 a 17 anos"}
+{"_id":{ "$oid": "5d5356f7c859af000691c5d3" },"name":"Feminino Adulto","description":"Atletas mulheres acima de 18 anos"}
+{"_id":{ "$oid": "5d53573cc859af000691c5d5" },"name":"Maculino Master","description":"Atletas homens acima de 35 anos"}
